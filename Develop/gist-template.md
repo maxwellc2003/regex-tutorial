@@ -4,7 +4,7 @@ Welcome to my regex tutorial, I will be providing an example of a regex and how 
 
 ## Summary
 
-The regex I will be describing is a regex that validates if the text input is in correct email format
+The regex I will be describing is a regex that validates if the text input is in correct email format. Regex are regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. This tutorial will run through some of the different expressions and used to describe an email format.
 
 ## Table of Contents
 
